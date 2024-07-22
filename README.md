@@ -1,9 +1,9 @@
 # DNPCS
-DNPCS(Dynamic NPC Positioning Control System)
-구직중인 개발자 입니다.
+DNPCS(Dynamic NPC Positioning Control System)\
+구직중인 개발자 입니다. \
 희망분야: 로봇, AI
 
-구인 중인 업체분들 연락 바랍니다
+채용 관련 연락 바랍니다
 skylandbruce@naver.com
 
 
